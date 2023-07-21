@@ -1,0 +1,37 @@
+exp + 17 3
+print
+simp
+print
+exp - 8 4
+print
+simp
+print
+exp * 5 2
+print
+simp
+print
+exp * 10 0.5
+print
+simp
+print
+exp / 10 5
+print
+simp
+print
+exp / 10 3
+print
+simp
+print
+exp / 112 9
+print
+simp
+print
+exp ^ 10 5
+print
+simp
+print
+exp ^ 2 8
+print
+simp
+print
+end

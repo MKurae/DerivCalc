@@ -1,0 +1,17 @@
+exp cos 0
+print
+simp
+print
+exp cos pi
+print
+simp
+print
+exp cos * 0.5 pi
+print
+simp
+print
+exp cos * * 0.5 pi -1
+print
+simp
+print
+end

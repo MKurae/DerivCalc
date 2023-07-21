@@ -1,0 +1,33 @@
+exp - 10 10
+print
+simp
+print
+exp - x x
+print
+simp
+print
+exp / 10 10
+print
+simp
+print
+exp / x x
+print
+simp
+print
+exp / * a b * a b
+print
+simp
+print
+exp / * b a * a b
+print
+simp
+print
+exp - * a b * a b
+print
+simp
+print
+exp - * b a * a b
+print
+simp
+print
+end

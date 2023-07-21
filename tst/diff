@@ -1,0 +1,45 @@
+exp + * 2 ^ x 2 2
+print
+diff
+print
+simp
+print
+exp ^ + * 2 ^ x 2 2 2
+print
+diff 
+print
+simp 
+print
+simp
+print
+exp * 3 ^ x 2
+print
+diff
+print
+simp 
+print
+exp sin * 3 x
+print
+diff 
+print
+simp 
+print
+exp cos * 3 x
+print
+diff 
+print
+simp 
+print
+exp ^ sin * pi x 3
+print
+diff 
+print
+exp * -1 sin x
+print
+diff
+print
+exp * -1 cos x
+print
+diff
+print
+end

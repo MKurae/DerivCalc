@@ -1,0 +1,17 @@
+exp sin 0
+print
+simp
+print
+exp sin pi
+print
+simp
+print
+exp sin * 0.5 pi
+print
+simp
+print
+exp sin * * 0.5 pi -1
+print
+simp
+print
+end

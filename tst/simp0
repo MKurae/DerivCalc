@@ -1,0 +1,73 @@
+exp + 10 0
+print
+simp
+print
+exp + x 0
+print
+simp
+print
+exp + 0 10
+print
+simp
+print
+exp + 0 x
+print
+simp
+print
+exp - 10 0
+print
+simp
+print
+exp - x 0
+print
+simp
+print
+exp - 0 10
+print
+simp
+print
+exp - 0 x
+print
+simp
+print
+exp * 0 10
+print
+simp
+print
+exp * 10 0
+print
+simp
+print
+exp / 10 0
+print
+simp
+print
+exp / 0 10
+print
+simp
+print
+exp / 0 x
+print
+simp
+print
+exp / x - 1 1
+print
+simp
+print
+exp ^ 0 0
+print
+simp
+print
+exp ^ 0 10
+print
+simp
+print
+exp ^ 10 0
+print
+simp
+print
+exp ^ x 0
+print
+simp
+print
+end

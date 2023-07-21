@@ -1,0 +1,331 @@
+exp + 10 0
+print
+dot
+simp
+dot
+print
+exp + x 0
+print
+dot
+simp
+dot
+print
+exp + 0 10
+print
+dot
+simp
+dot
+print
+exp + 0 x
+print
+dot
+simp
+dot
+print
+exp - 10 0
+print
+dot
+simp
+dot
+print
+exp - x 0
+print
+dot
+simp
+dot
+print
+exp - 0 10
+print
+dot
+simp
+dot
+print
+exp - 0 x
+print
+dot
+simp
+dot
+print
+exp * 0 10
+print
+dot
+simp
+dot
+print
+exp * 10 0
+print
+dot
+simp
+dot
+print
+exp / 10 0
+print
+dot
+simp
+dot
+print
+exp / 0 10
+print
+dot
+simp
+dot
+print
+exp / 0 x
+print
+dot
+simp
+dot
+print
+exp ^ 0 0
+print
+dot
+simp
+dot
+print
+exp ^ 0 10
+print
+dot
+simp
+dot
+print
+exp ^ 10 0
+print
+dot
+simp
+dot
+print
+exp ^ x 0
+print
+dot
+simp
+dot
+print
+exp * x 1
+print
+dot
+simp
+dot
+print
+exp * 1 x
+print
+dot
+simp
+dot
+print
+exp * 10 1
+print
+dot
+simp
+dot
+print
+exp * 1 10
+print
+dot
+simp
+dot
+print
+exp / 1 x
+print
+dot
+simp
+dot
+print
+exp / x 1
+print
+dot
+simp
+dot
+print
+exp / 10 1
+print
+dot
+simp
+dot
+print
+exp / 1 10
+print
+dot
+simp
+dot
+print
+exp ^ 0 1
+print
+dot
+simp
+dot
+print
+exp ^ 1 10
+print
+dot
+simp
+dot
+print
+exp ^ 10 1
+print
+dot
+simp
+dot
+print
+exp ^ x 1
+print
+dot
+simp
+dot
+print
+exp ^ 1 x
+print
+dot
+simp
+dot
+print
+exp cos 0
+print
+dot
+simp
+dot
+print
+exp cos pi
+print
+dot
+simp
+dot
+print
+exp cos * 0.5 pi
+print
+dot
+simp
+dot
+print
+exp cos * * 0.5 pi -1
+print
+dot
+simp
+dot
+print
+exp + 17 3
+print
+dot
+simp
+dot
+print
+exp - 8 4
+print
+dot
+simp
+dot
+print
+exp * 5 2
+print
+dot
+simp
+dot
+print
+exp * 10 0.5
+print
+dot
+simp
+dot
+print
+exp / 10 5
+print
+dot
+simp
+dot
+print
+exp / 10 3
+print
+dot
+simp
+dot
+print
+exp / 112 9
+print
+dot
+simp
+dot
+print
+exp ^ 10 5
+print
+dot
+simp
+dot
+print
+exp ^ 2 8
+print
+dot
+simp
+dot
+print
+exp sin 0
+print
+dot
+simp
+dot
+print
+exp sin pi
+print
+dot
+simp
+dot
+print
+exp sin * 0.5 pi
+print
+dot
+simp
+dot
+print
+exp sin * * 0.5 pi -1
+print
+dot
+simp
+dot
+print
+exp - 10 10
+print
+dot
+simp
+dot
+print
+exp - x x
+print
+dot
+simp
+dot
+print
+exp / 10 10
+print
+dot
+simp
+dot
+print
+exp / x x
+print
+dot
+simp
+dot
+print
+exp / * a b * a b
+print
+dot
+simp
+dot
+print
+exp / * b a * a b
+print
+dot
+simp
+dot
+print
+exp - * a b * a b
+print
+dot
+simp
+dot
+print
+exp - * b a * a b
+print
+dot
+simp
+dot
+print
+end
